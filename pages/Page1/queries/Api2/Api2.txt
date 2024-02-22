@@ -1,0 +1,1 @@
+{"command":{"data":"LIST_FUNCTIONS"},"functionName":{"data":""},"invocationType":{"data":""},"body":{"data":""}}
